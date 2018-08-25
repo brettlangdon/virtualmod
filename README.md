@@ -1,5 +1,8 @@
 virtualmod
 ==========
+
+[![PyPI version](https://badge.fury.io/py/virtualmod.svg)](https://badge.fury.io/py/virtualmod)
+
 Python package for creating and importing virtual modules.
 
 ## Install
